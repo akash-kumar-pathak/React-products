@@ -1,0 +1,19 @@
+.card {
+  background: #dea3c1;
+  color: #3f2b5d;
+  width: 30%;
+  padding: 1.5rem;
+  margin: 1rem;
+  border-radius: 10px;
+}
+
+.card p {
+  color: #1d1d2e;
+  font-weight: bold;
+}
+
+.card button {
+  border: none;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
